@@ -1,0 +1,11 @@
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar-VigenereSifreleme.csprojAssemblyReference.cache
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar_VigenereSifreleme.Form1.resources
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar_VigenereSifreleme.Properties.Resources.resources
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar-VigenereSifreleme.csproj.GenerateResource.cache
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar-VigenereSifreleme.exe.licenses
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar-VigenereSifreleme.csproj.CoreCompileInputs.cache
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\bin\Debug\Sezar-VigenereSifreleme.exe.config
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\bin\Debug\Sezar-VigenereSifreleme.exe
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\bin\Debug\Sezar-VigenereSifreleme.pdb
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar-VigenereSifreleme.exe
+C:\Users\OF\source\repos\Sezar-VigenereSifreleme\Sezar-VigenereSifreleme\obj\Debug\Sezar-VigenereSifreleme.pdb
